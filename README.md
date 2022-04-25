@@ -16,6 +16,6 @@
     
 Собранный проект: 
 
-Release\NotesProject.exe
+    Release\NotesProject.exe
 
 Для запуска требуется установленная платформа .net.
