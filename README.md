@@ -16,6 +16,8 @@
     
 Собранный проект: 
 
-    Release\NotesProject.exe
+    Под Win64 Release\NotesProject.exe;
+    Под все платформы ReleaseAll\NotesProject.exe;
+    
 
 Для запуска требуется установленная платформа .net.
